@@ -1,0 +1,10 @@
+{
+  "quick_": ["dashboard_", "profile_", "subscription_", "contact_", "logout_"],
+  "url_set": [
+    "https://syntaximos.com/my-account/?ihc_ap_menu=overview",
+    "https://syntaximos.com/my-account/?ihc_ap_menu=profile",
+    "https://syntaximos.com/my-account/?ihc_ap_menu=subscription",
+    "https://syntaximos.com/contact-us/",
+    "https://syntaximos.com/my-account/?ihcdologout=1"
+  ]
+}
